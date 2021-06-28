@@ -1,3 +1,11 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color:rgb(59, 59, 122);
+    height: 150px;
+}
+#logo{
+    height: 60px;
+}
 h1{
     font-size: 40px;
     height: 70px;
