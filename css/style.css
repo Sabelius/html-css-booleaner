@@ -1,24 +1,19 @@
 header{
     background-image: url(../img/pattern.png);
     background-color:rgb(59, 59, 122);
-    height: 150px;
+    padding-top: 50px;
 }
 #logo{
     height: 60px;
 }
 h1{
     font-size: 40px;
-    height: 70px;
 }
 h4{
     color: rgb(82, 80, 80);
-    height: 0px;
 }
 span{
     color: lightseagreen;
-}
-#ph1{
-    height: 0px;
 }
 div{
     height: 350px;
@@ -31,19 +26,24 @@ thead{
     color: white;
     background-color: teal;
 }
+.tab{
+    width: 25%;
+}
 tbody{
     background-color:lightskyblue;
 }
-#img{
+.img{
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     height: 200px;
 }
-#img2{
+.img2{
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
 }
 .white{
     color: white;
     text-align:left;
+    padding-left: 20px;
+    padding-top: 10px;
 }
